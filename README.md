@@ -1,4 +1,4 @@
-# Circular Percentage View Composable Library (JetCircularPer 💫🍕)
+# Circular Percentage View Composable Library (CircularValueView 💫🍕)
 
 Simple composable library to showcase the value with circular percentage.
 
